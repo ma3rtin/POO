@@ -1,17 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Servicios;
 
 import Entidades.Cafetera;
 import java.util.Scanner;
 
-/**
- *
- * @author mutuv
- */
 public class CafeteraServicio {
     Scanner sc =new Scanner(System.in);
     Cafetera c1= new Cafetera();
